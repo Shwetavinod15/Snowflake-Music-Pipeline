@@ -73,7 +73,7 @@ Album metrics, such as track counts
 
 These visualizations offer deep insights into Spotify usage and trends.
 
-![DV](spotify_dv.png)
+![DV](Spotify.png)
 
 ### Key Features
 End-to-End Automation: From data extraction to visualization, the entire pipeline is automated via CloudWatch triggers and Snowpipe.

@@ -19,8 +19,6 @@ Automatically triggers an AWS Glue job (Spotify_transformation_job) to initiate 
 
 The Lambda function runs every minute via an Amazon CloudWatch Events rule.
 
-![AWS_Lambda](spotify_api_etl.png)
-
 
 ### 2. Data Transformation: AWS Glue
 
